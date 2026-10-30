@@ -1,0 +1,8 @@
+bin/
+obj/
+.vs/
+*.user
+
+# Never commit your real server settings: they contain AdminPassword and ServerPassword.
+PalWorldSettings*.ini
+PalWorldSettings - backup/
